@@ -1,0 +1,15 @@
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources

@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F5FADF8-CC02-40B2-8828-27371C3C54C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto_Inmobiliaria.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto_Inmobiliaria</RootNamespace>
+    <AssemblyName>Proyecto_Inmobiliaria</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto_Inmobiliaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto_Inmobiliaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>Proyecto_Inmobiliaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>Proyecto_Inmobiliaria.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Proyecto_Inmobiliaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Proyecto_Inmobiliaria.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.7.4137.9688, Culture=neutral, PublicKeyToken=a4292a325f69b123, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.1.7.0\lib\Net40-Client\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.Barcode, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=AMD64">
+      <HintPath>..\packages\MessagingToolkit.1.8.3\lib\net46\x64\MessagingToolkit.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.Core, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=AMD64">
+      <HintPath>..\packages\MessagingToolkit.1.8.3\lib\net46\x64\MessagingToolkit.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.MMS, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=AMD64">
+      <HintPath>..\packages\MessagingToolkit.1.8.3\lib\net46\x64\MessagingToolkit.MMS.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.Pdu, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=AMD64">
+      <HintPath>..\packages\MessagingToolkit.1.8.3\lib\net46\x64\MessagingToolkit.Pdu.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.UI, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=AMD64">
+      <HintPath>..\packages\MessagingToolkit.1.8.3\lib\net46\x64\MessagingToolkit.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.Wap, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=AMD64">
+      <HintPath>..\packages\MessagingToolkit.1.8.3\lib\net46\x64\MessagingToolkit.Wap.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="OC.Core, Version=2.0.0.17347, Culture=neutral, PublicKeyToken=21d5b409dafb75d2, processorArchitecture=MSIL">
+      <HintPath>..\packages\OC.Core.2.0.0\lib\net40\OC.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="OC.Core.Crypto, Version=1.4.13.38223, Culture=neutral, PublicKeyToken=21d5b409dafb75d2, processorArchitecture=MSIL">
+      <HintPath>..\packages\OC.Core.Crypto.1.4.13\lib\net40\OC.Core.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ArrayTable.vb" />
+    <Compile Include="Clases\Clases BD\Agenda.vb" />
+    <Compile Include="Clases\Clases BD\Barrio.vb" />
+    <Compile Include="Clases\Clases BD\Ciudad.vb" />
+    <Compile Include="Clases\Clases BD\Cliente.vb" />
+    <Compile Include="Clases\Clases BD\Departamento.vb" />
+    <Compile Include="Clases\Clases BD\Imagen_Propiedad.vb" />
+    <Compile Include="Clases\Clases BD\Objeto_BD.vb" />
+    <Compile Include="Clases\Clases BD\Persona.vb" />
+    <Compile Include="Clases\Clases BD\Personal.vb" />
+    <Compile Include="Clases\Clases BD\Propietario.vb" />
+    <Compile Include="Clases\Clases BD\Sucursal.vb" />
+    <Compile Include="Clases\Clases BD\Usuario.vb" />
+    <Compile Include="Clases\Clases BD\Visita.vb" />
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BDCon.vb" />
+    <Compile Include="Clases\ClassMenu.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\FormateadorDeTextos.vb" />
+    <Compile Include="FrmCliente.Designer.vb">
+      <DependentUpon>FrmCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.Designer.vb">
+      <DependentUpon>FrmAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgendar.Designer.vb">
+      <DependentUpon>FrmAgendar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgendar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModificarAgenda.Designer.vb">
+      <DependentUpon>FrmModificarAgenda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModificarAgenda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQR.Designer.vb">
+      <DependentUpon>FrmQR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistrarse.Designer.vb">
+      <DependentUpon>FrmRegistrarse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistrarse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\LibroExcel.vb" />
+    <Compile Include="Clases\Mensaje.vb" />
+    <Compile Include="Metodos.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Clases\Clases BD\Propiedad.vb" />
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmCliente.resx">
+      <DependentUpon>FrmCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgendar.resx">
+      <DependentUpon>FrmAgendar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModificarAgenda.resx">
+      <DependentUpon>FrmModificarAgenda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQR.resx">
+      <DependentUpon>FrmQR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistrarse.resx">
+      <DependentUpon>FrmRegistrarse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fonts\WorkSans-ExtraLight.ttf" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Img\2144.jpg" />
+    <Content Include="Img\31799.jpg" />
+    <Content Include="Img\Boton1tier.png" />
+    <Content Include="Img\Boton2tier.png" />
+    <Content Include="Img\Boton3tier.png" />
+    <Content Include="Img\DataTest\depositphotos_65554077-stock-illustration-house-vector-logo-design-template.jpg" />
+    <Content Include="Img\PerfilSinFondo.png" />
+    <None Include="Resources\62156.gif" />
+    <None Include="Resources\PerfilMarron.gif" />
+    <None Include="Resources\PerfilGris.gif" />
+    <None Include="Resources\PerfilAzul.gif" />
+    <None Include="packages.config" />
+    <None Include="Resources\Casa6_Principal.jpg" />
+    <None Include="Resources\Casa6_Img5.jpeg" />
+    <None Include="Resources\Casa6_Img4.jpeg" />
+    <None Include="Resources\Casa6_Img3.jpeg" />
+    <None Include="Resources\Casa6_Img2.jpg" />
+    <None Include="Resources\Casa6_Img1.jpeg" />
+    <None Include="Resources\Casa5_Principal.jpg" />
+    <None Include="Resources\Casa5_Img8.jpg" />
+    <None Include="Resources\Casa5_Img7.jpg" />
+    <None Include="Resources\Casa5_Img6.jpg" />
+    <None Include="Resources\Casa5_Img5.jpg" />
+    <None Include="Resources\Casa5_Img4.jpg" />
+    <None Include="Resources\Casa5_Img3.jpg" />
+    <None Include="Resources\Casa5_Img2.jpg" />
+    <None Include="Resources\Casa5_Img1.jpg" />
+    <None Include="Resources\Casa4_Principal.jpg" />
+    <None Include="Resources\Casa4_Img4.jpg" />
+    <None Include="Resources\Casa4_Img3.jpg" />
+    <None Include="Resources\Casa4_Img2.jpg" />
+    <None Include="Resources\Casa4_Img1.jpg" />
+    <None Include="Resources\Casa4_Img.jpg" />
+    <None Include="Resources\Casa3_Principal.jpg" />
+    <None Include="Resources\Casa3_Img5.jpg" />
+    <None Include="Resources\Casa3_Img4.jpg" />
+    <None Include="Resources\Casa3_Img3.jpg" />
+    <None Include="Resources\Casa3_Img2.jpg" />
+    <None Include="Resources\Casa3_Img1.jpg" />
+    <None Include="Resources\147688269815.jpg" />
+    <None Include="Resources\Casa2_Principal.jpg" />
+    <None Include="Resources\Casa2_Img5.jpg" />
+    <None Include="Resources\Casa2_Img4.jpg" />
+    <None Include="Resources\Casa2_Img3.jpg" />
+    <None Include="Resources\Casa2_Img2.jpg" />
+    <None Include="Resources\Casa2_Img1.jpg" />
+    <None Include="Resources\Casa1_Principal.jpg" />
+    <None Include="Resources\Casa1_Img6.jpg" />
+    <None Include="Resources\Casa1_Img5.jpg" />
+    <None Include="Resources\Casa1_Img4.jpg" />
+    <None Include="Resources\Casa1_Img3.jpg" />
+    <None Include="Resources\Casa1_Img2.jpg" />
+    <None Include="Resources\Casa1_Img1.jpg" />
+    <None Include="Resources\casas-modernas-zx98.jpg" />
+    <None Include="Resources\AnimacionIcono.gif" />
+    <None Include="Resources\IniAnimacion.gif" />
+    <None Include="Resources\Cama.png" />
+    <None Include="Resources\Baño.png" />
+    <None Include="Resources\Garage.png" />
+    <None Include="Resources\Lupa.png" />
+    <None Include="Resources\BotonChiquitoTemaMarron.png" />
+    <None Include="Resources\BotonChiquitoTemaGris.png" />
+    <None Include="Resources\BotonChiquitoTemaAzul.png" />
+    <None Include="Resources\BotonAtrasTemaMarron.png" />
+    <None Include="Resources\BotonAtrasTemaGris.png" />
+    <None Include="Resources\BotonAtrasTemaAzul.png" />
+    <None Include="Resources\BotonAdelanteTemaMarron.png" />
+    <None Include="Resources\BotonAdelanteTemaGris.png" />
+    <None Include="Resources\BotonAdelanteTemaAzul.png" />
+    <None Include="Resources\PerfilMarron.png" />
+    <None Include="Resources\PerfilGris.png" />
+    <None Include="Resources\PerfilAzul.png" />
+    <None Include="Resources\BotonLoginTemaMarron.png" />
+    <None Include="Resources\BotonLoginTemaGris.png" />
+    <None Include="Resources\BotonLoginTemaAzul.png" />
+    <None Include="Resources\BotonLoginTemaAzul1.png" />
+    <None Include="Resources\FondoTemaMarron.png" />
+    <None Include="Resources\FondoTemaGris.png" />
+    <None Include="Resources\FondoTemaAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

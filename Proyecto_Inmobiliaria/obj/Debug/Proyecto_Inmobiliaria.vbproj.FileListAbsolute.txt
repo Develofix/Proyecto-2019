@@ -1,0 +1,600 @@
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\AppData\Local\Temporary Projects\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\cmcl9\Desktop\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\admin\Desktop\Proyecto Inmobiliariaerer\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\ProyectoCarpetas\ProyectoCarpetas\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmQR.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmQR.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\admin\Desktop\Nueva carpeta\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmoviliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmoviliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\PROYECTO 3º EMT - 2019\Proyecto Inmobiliaria\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmoviliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\cmcl9\Desktop\Proyecto Programación 3\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Pictures\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Music\Primera_Entrega_Programacion\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\admin\Desktop\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda_Entrega_Programacion V1\Primera_Entrega_Programacion\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTO 3º EMT - 2019\Programacion\Segunda Entrega Programacion V2\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Richard Cabrera\Downloads\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\admin\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\aVA\Desktop\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 06082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Documents\PROYECTOV2\PROGRAMACION\Proyecto Inmobiliaria 27082019\Proyecto Inmobiliaria\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.ResolveComReference.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe.config
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.ResolveComReference.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmCliente.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmLogin.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAdmin.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmAgendar.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmModificarAgenda.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmQR.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.FrmRegistrarse.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.Resources.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.SplashScreen1.resources
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.exe
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.xml
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\obj\Debug\Proyecto_Inmobiliaria.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\OC.Core.Crypto.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\OC.Core.dll
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\OC.Core.pdb
+C:\Users\Pablo\Desktop\Proyecto Inmobiliaria\Proyecto_Inmobiliaria\bin\Debug\OC.Core.Crypto.pdb

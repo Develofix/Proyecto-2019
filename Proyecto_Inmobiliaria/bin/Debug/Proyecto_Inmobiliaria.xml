@@ -1,0 +1,381 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyecto_Inmobiliaria
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto_Inmobiliaria.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources._147688269815">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources._62156">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.AnimacionIcono">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Baño">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonAdelanteTemaAzul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonAdelanteTemaGris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonAdelanteTemaMarron">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonAtrasTemaAzul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonAtrasTemaGris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonAtrasTemaMarron">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonChiquitoTemaAzul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonChiquitoTemaGris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonChiquitoTemaMarron">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonLoginTemaAzul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonLoginTemaAzul1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonLoginTemaGris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.BotonLoginTemaMarron">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Cama">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Img1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Img2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Img3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Img4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Img5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Img6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa1_Principal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa2_Img1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa2_Img2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa2_Img3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa2_Img4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa2_Img5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa2_Principal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa3_Img1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa3_Img2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa3_Img3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa3_Img4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa3_Img5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa3_Principal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa4_Img">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa4_Img1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa4_Img2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa4_Img3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa4_Img4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa4_Principal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Img8">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa5_Principal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa6_Img1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa6_Img2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa6_Img3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa6_Img4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa6_Img5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Casa6_Principal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.casas_modernas_zx98">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.FondoTemaAzul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.FondoTemaGris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.FondoTemaMarron">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Garage">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.IniAnimacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.Lupa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.PerfilAzul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.PerfilAzul1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.PerfilGris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.PerfilGris1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.PerfilMarron">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_Inmobiliaria.My.Resources.Resources.PerfilMarron1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
